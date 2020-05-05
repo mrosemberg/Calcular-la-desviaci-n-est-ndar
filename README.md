@@ -1,2 +1,2 @@
-# Calcula la-desviación estándar
-Calcular la desviación estándar
+# Calcular la desviación estándar
+practica de python con jupyter notebooks
