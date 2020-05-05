@@ -1,2 +1,2 @@
-# Calcular-la-desviaci-n-est-ndar
+# Calcula la-desviación estándar
 Calcular la desviación estándar
